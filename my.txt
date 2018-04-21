@@ -11,3 +11,7 @@ master change111
 rebase
 
 rebase3
+
+stage
+
+revert
